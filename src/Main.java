@@ -108,4 +108,4 @@ public class Main {
         getUpSalary("Денис", salaryDenis);
         getUpSalary("Кристина", salaryKristina);
      }
-    }
+}
